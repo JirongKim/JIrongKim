@@ -3,7 +3,7 @@
 
 ## My Dream :fire:
 모두가 매일 사용하는 소프트웨어(모매사소) 만들기<br>
-<br>
+매일 어제보다 더 성장하는 개발자<br>
 
 ## I'm Problem Solver :man_shrugging:
 프로그래밍은 문제를 풀어내기 위한 도구라고 생각합니다.<br>
