@@ -3,6 +3,7 @@
 
 ## My Dream :fire:
 모두가 매일 사용하는 소프트웨어(모매사소) 만들기<br>
+배운것을 기록하고 공유하며 더 좋은 개발 생태계를 만드는 개발자<br>
 매일 어제보다 더 성장하는 개발자 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tvtime&link=https://hyun222.tistory.com)](https://hyun222.tistory.com)<br><br>
 
 ## I'm Problem Solver :man_shrugging:
@@ -17,5 +18,5 @@
 
 
 ## 부스트캠프 간절합니다:pray:<br>
-- 정말 정말 정말 간절합니다. 정말 열심히 할 자신 있습니다.<br>
-- 5개월간의 압축성장을 이뤄낼 것입니다.<br>
+- 정말 정말 정말 열심히 해보겠습니다.<br>
+- 5개월간 압축성장을 이뤄내겠습니다!<br>
