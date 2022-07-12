@@ -15,8 +15,3 @@
 - “해야 하는데”에서 끝나지 않고 실천하는 사람 <br>
 - 매번 더 나은 방법을 떠올리며 새롭게 도전하는 사람 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/청년들의무모한도전)](https://www.youtube.com/c/청년들의무모한도전)<br>
 - "개발자가 되기 위해 꼭 알아야 하는 IT 용어" 공동저자 [![Yes24 Badge](https://img.shields.io/badge/Yes24-000000?style=flat-square&logo=BookStack&link=http://www.yes24.com/Product/Goods/109711067)](http://www.yes24.com/Product/Goods/109711067)<br><br>
-
-
-## 부스트캠프 간절합니다:pray:<br>
-- 정말 정말 정말 열심히 해보겠습니다.<br>
-- 5개월간 압축성장을 이뤄내겠습니다!<br>
